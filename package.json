@@ -1,0 +1,16 @@
+{
+  "name": "quakejs-files",
+  "version": "0.0.1",
+  "description": "Parse quake3 `.bsp`, `.md3`, `.shader` and `.skin` files into JavaScript friendly objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/inolen/quakejs-files.git"
+  },
+  "author": "Anthony Pesch",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
