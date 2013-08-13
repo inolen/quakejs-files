@@ -12,5 +12,8 @@
   },
   "author": "Anthony Pesch",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "bit-buffer": "0.0.3"
+  }
 }
