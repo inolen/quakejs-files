@@ -1,6 +1,6 @@
 {
   "name": "quakejs-files",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Parse quake3 `.bsp`, `.md3`, `.shader` and `.skin` files into JavaScript friendly objects",
   "main": "index.js",
   "scripts": {
